@@ -1,0 +1,11 @@
+Team Valorant -
+Captain: Soleil (SOCharacter)
+Pilot: Kwame (SOCharacter)
+Mechanic: Ezra (SOCharacter)
+Gunner: Francisco (SOCharacter)
+
+Team Stats:
+Intelligence: 36
+Speed: 38
+Dexterity: 53
+Luck: 45

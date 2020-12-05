@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slot
+  - DraggingCanvas
+  - EnemyCardSlot
+  - PlayerCardSlot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Squad
+    uniqueID: 3701878105
+    locked: 0
+  - name: Cards
+    uniqueID: 4075574735
+    locked: 0
+  - name: Dragging
+    uniqueID: 1185601597
+    locked: 0
+  - name: CharacterCard
+    uniqueID: 1383831843
+    locked: 0
